@@ -1,4 +1,4 @@
-# qr_code_generator
+
 # 📱 qr_code_generator
 
 **Turn any link into a scannable QR code — in 4 lines of Python.**
